@@ -24,7 +24,7 @@ Note:
 5. Run the program using this command:
     `python main.py`
 
-While running the program<br/>: 
+While running the program:<br/>
     - The program will create a folder named **"scrapped_images"** in the project folder.
     - The program will create a folder named **"failed_urls.txt"** in the project folder.
 
@@ -33,7 +33,7 @@ Warning:
     - Don't delete the folder "failed_urls.txt" because it contains all the failed urls during scrapping.
     - Don't delete the folder "scrapped_images" because it contains all the scrapped images.
 
-7.Run following command to download failed urls during scrapping:
+7. Run following command to download failed urls during scrapping:
     `python download_failed_urls_image.py`
 
 8. After the program is finished, you should delete unnecessary files except:
