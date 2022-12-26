@@ -1,4 +1,3 @@
-# Yandex-search-image-scrapper
 # Installation guide
 
 1. Create environment inside project folder :
@@ -24,7 +23,7 @@ Note:
 5. Run the program using this command:
     `python main.py`
 
-While running the program:<br/>
+    While running the program:<br/>
     - The program will create a folder named **"scrapped_images"** in the project folder.
     - The program will create a folder named **"failed_urls.txt"** in the project folder.
 
