@@ -8,20 +8,23 @@
     virtualenv venv
 
 2. Activate environment:
-    For Win: .\env\Scripts\activate
-    For MacOS: source venv/bin/activate
+# For Win: 
+    .\env\Scripts\activate
+# For MacOS: 
+    source venv/bin/activate
 
 3. Installing all required packages:
-pip install -r requirments.txt
+    pip install -r requirments.txt
 
-4. Put only one search image in the folder "search-image"
+4. Put only one search image in the folder **"search-image"**.
 # Note: 
     - The image must be in (jpg, png, jpeg) format. 
-    - Image size must be less than 1.5MB to avoid any error.
+    - Image size must be less than **'1.5MB'** to avoid any error.
 
 5. Run the program using this command:
-python main.py
-# While running the program: 
+    python main.py
+
+While running the program: 
     - The program will create a folder named "scrapped_images" in the project folder.
     - The program will create a folder named "failed_urls.txt" in the project folder.
 
