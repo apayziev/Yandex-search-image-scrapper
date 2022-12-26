@@ -2,8 +2,10 @@
 # Installation guide
 
 1. Create environment inside project folder :
-    For Windows: python -m venv env
-    For MacOS: virtualenv venv
+# For Win:
+    python -m venv env
+# For MacOS:
+    virtualenv venv
 
 2. Activate environment:
     For Win: .\env\Scripts\activate
