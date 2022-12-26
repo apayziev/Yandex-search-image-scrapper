@@ -1,0 +1,1 @@
+# Yandex-search-image-scrapper
