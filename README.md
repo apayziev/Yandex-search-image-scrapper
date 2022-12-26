@@ -8,7 +8,7 @@ For MacOS:
     `virtualenv venv`
 
 2. Activate environment:
-For Win: 
+For Win\: 
     `.\env\Scripts\activate`
 For MacOS: 
     `source venv/bin/activate`
