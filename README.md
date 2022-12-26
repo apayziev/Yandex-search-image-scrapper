@@ -14,7 +14,7 @@
     source venv/bin/activate
 
 3. Installing all required packages:
-    pip install -r requirments.txt
+#    pip install -r requirments.txt
 
 4. Put only one search image in the folder **"search-image"**.
 # Note: 
