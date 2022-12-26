@@ -7,7 +7,7 @@ For Win:
 For MacOS:
     `virtualenv venv`
 
-2. Activate environment<br/>:
+2. Activate environment:<br/>
 For Win: 
     `.\env\Scripts\activate`<br />
 For MacOS: 
@@ -24,9 +24,9 @@ Note:
 5. Run the program using this command:
     `python main.py`
 
-While running the program: 
-    - The program will create a folder named "scrapped_images" in the project folder.
-    - The program will create a folder named "failed_urls.txt" in the project folder.
+While running the program<br/>: 
+    - The program will create a folder named **"scrapped_images"** in the project folder.
+    - The program will create a folder named **"failed_urls.txt"** in the project folder.
 
 6. After the program is finished, you can find all the scrapped images in the folder "scrapped_images".
 Warning: 
@@ -46,6 +46,6 @@ Warning:
     - README.md
     - .gitignore
 
-9. Before you search for another image, you should delete all the files in the folder "scrapped_images" and "failed_urls.txt" and put the new image in the folder "search-image".
+9. Before you search for another image, you should delete all the files in the folder **"scrapped_images"** and **"failed_urls.txt"** and put the new image in the folder "search-image".
 
 10. Enjoy the program.
