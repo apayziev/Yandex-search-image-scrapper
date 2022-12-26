@@ -1,8 +1,8 @@
 # Installation guide
 
-1. Create environment inside project folder :
+1. Create environment inside project folder:<br/>
 For Win:
-    `python -m venv env`
+    `python -m venv env`<br/>
 For MacOS:
     `virtualenv venv`
 
